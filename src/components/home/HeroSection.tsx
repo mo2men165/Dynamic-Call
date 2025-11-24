@@ -258,7 +258,7 @@ export const HeroSection = () => {
                 transition={{ duration: 1, ease: [0.22, 1, 0.36, 1] }}
               >
                 <img
-                  src="/src/assets/hero.avif"
+                  src="/hero.avif"
                   alt="Dynamic Call Center Solutions"
                   className="w-full h-full object-cover"
                 />

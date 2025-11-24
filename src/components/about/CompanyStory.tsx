@@ -96,7 +96,7 @@ export const CompanyStory = () => {
               
               {/* Image placeholder with gradient overlay */}
               <div className="relative aspect-[4/3] bg-gradient-to-br from-blue-500 via-indigo-500 to-purple-500 rounded-2xl overflow-hidden mb-6 group">
-                <img src="/src/assets/call-center.avif" alt="Dynamic Call Team" className="w-full h-full object-cover" />
+                <img src="/call-center.avif" alt="Dynamic Call Team" className="w-full h-full object-cover" />
               </div>
 
               {/* Vision & Values cards */}
